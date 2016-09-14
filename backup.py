@@ -6,7 +6,7 @@ import tarfile
 import time
 import ftplib
 
-CONFIG_DIR = "config.yaml"
+CONFIG_DIR = "myconfig.yaml"
 config = {}
 
 logging.getLogger().setLevel(logging.INFO)

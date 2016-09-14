@@ -1,6 +1,5 @@
-
-server-root: /home/barestides/dev/arcane/server 
-main-world-name: main
+server-root:  
+main-world-name: 
 ftp-server-host: 
 ftp-password:
 ftp-user: 
