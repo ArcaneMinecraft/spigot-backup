@@ -1,7 +1,11 @@
-server-root:  
-main-world-name: 
-ftp-server-host: 
-ftp-password:
-ftp-user: 
+#backup-dir and server-root require tail slashes
+backup-dir: backups/
+backup-name: example-name
+server-root: /path/to/your/spigot/server/
 
-
+#Add the files / folders you want to backup here:
+paths-to-backup:
+  - Main
+  - Main_nether
+  - Main_the_end
+  - plugins/ExamplePlugin/some-plugin-data-you-need
