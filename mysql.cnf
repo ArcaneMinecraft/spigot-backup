@@ -1,0 +1,4 @@
+[client]
+user = your_mysql_user
+password = your_mysql_pass
+host = your_mysql_host
